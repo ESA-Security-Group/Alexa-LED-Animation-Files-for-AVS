@@ -1,0 +1,1098 @@
+200218 07:54:57.767 [INFO][2174..init(with:)] Log started, build: 4.5.6be62884
+200218 07:54:57.779 [INFO][2174.AppDelegate.application] App version: 4.5 (2002071600)
+200218 07:54:57.780 [INFO][2174.AppDelegate.application] Locale: en_SE
+200218 07:54:57.794 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:57.925 [INFO][2174.WarpApi.patchRegistration] Started
+200218 07:54:57.931 [INFO][2174.UserDefaults.wrappedValue] Got stored value for translation_shim_did_finish_keychain_translation: true
+200218 07:54:57.932 [INFO][2174.TranslationShim.translateSettings] 
+200218 07:54:57.935 [INFO][2174.UserDefaults.wrappedValue] Got stored value for translation_shim_did_finish_config_translation: true
+200218 07:54:57.948 [INFO][2174.ReceiptExtractionOperation.loadReceipt] appStoreReceiptURL: file:///private/var/mobile/Containers/Data/Application/F6EFE07F-AFF2-42A8-AF33-0C04D94E3EBF/StoreKit/receipt
+200218 07:54:57.950 [INFO][2174.ReceiptExtractionOperation.loadReceipt] Appstore receipt data available!
+200218 07:54:58.018 [INFO][2174.WarpApi.uploadReceipt] Started
+200218 07:54:58.039 [INFO][2174.AppDelegate.applicationDidBecomeActive] 
+200218 07:54:58.299 [INFO][2174.TunnelManager.loadDefaultManager] Loaded default manager
+200218 07:54:58.300 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:54:58.302 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.304 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:54:58.319 [INFO][2174.AppCoordinator.start] Initialization succeeded.
+200218 07:54:58.440 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:54:58.441 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 07:54:58.444 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_http_proxy_is_enabled: false
+200218 07:54:58.445 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_dark_theme: false
+200218 07:54:58.447 [INFO][2174.TunnelManager.updateProxySettings] Proxy settings have not changed
+200218 07:54:58.456 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_presented_onboarding: true
+200218 07:54:58.457 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_presented_onboarding: true
+200218 07:54:58.459 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_tos_date: Optional(2020-02-16 06:36:52 +0000)
+200218 07:54:58.467 [INFO][2174.NotificationsManager.messaging] FCM token fwB2HhTIwH4:APA91bHOJaHKG3zinvYpnwAePTRsexDIysc4JiQzzQsioaPEukofq3j65c7OsGYS3h9OODMLH-Khb2iCyxLRiNYAxZsZj7g9OP72JVr8tSCKpL88pmL1-0zu3LNu9_dU8MHCor9hPdYM
+200218 07:54:58.471 [INFO][2174.TunnelManager.loadDefaultManager] Loaded default manager
+200218 07:54:58.472 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:54:58.474 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.476 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:54:58.478 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_notifications: false
+200218 07:54:58.480 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:54:58.482 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_http_proxy_is_enabled: false
+200218 07:54:58.484 [INFO][2174.TunnelManager.updateProxySettings] Proxy settings have not changed
+200218 07:54:58.486 [INFO][2174.WarpApi.getWarpConfig] Started
+200218 07:54:58.488 [INFO][2174.WarpApi.getWarpCommonConfig] Started
+200218 07:54:58.494 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:54:58.496 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:54:58.530 [INFO][2174.WarpApi.getWarpCommonConfig] Ended
+200218 07:54:58.554 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.555 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.557 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.559 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.561 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.563 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.565 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.567 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:54:58.570 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.572 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.574 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.575 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.577 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.579 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.580 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.581 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.731 [INFO][2174.ScreenName.logScreen] main
+200218 07:54:58.832 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.833 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:54:58.834 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.835 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.837 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.839 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.840 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.841 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:58.843 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:54:58.846 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:54:59.352 [INFO][2174.WarpApi.patchRegistration] Ended
+200218 07:54:59.363 [INFO][2174.WarpApi.getWarpConfig] Ended
+200218 07:54:59.367 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_share_bonus_value: 1000000000
+200218 07:54:59.371 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_warp_configuration: Optional(_1dot1dot1dot1.WarpConfiguration(timeStamp: 2020-02-18 07:54:59 +0000, routingId: [228, 160, 38], interface: _1dot1dot1dot1.Endpoint(v4: "172.16.0.2", v6: "fd01:5ca1:ab1e:865e:b48:3c8c:8c5:ac14"), peers: [_1dot1dot1dot1.Server(publicKey: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", endpoint: _1dot1dot1dot1.Endpoint(v4: "162.159.192.10:2408", v6: "[2606:4700:d0::a29f:c00a]:2408"))], deniedIPv4: [_1dot1dot1dot1.DeniedIPv4(address: "10.0.0.0", netmask: "255.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "100.64.0.0", netmask: "255.192.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "169.254.0.0", netmask: "255.255.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "172.16.0.0", netmask: "255.240.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "192.0.0.0", netmask: "255.255.255.0"), _1dot1dot1dot1.DeniedIPv4(address: "192.168.0.0", netmask: "255.255.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "224.0.0.0", netmask: "240.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "240.0.0.0", netmask: "240.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "255.255.255.255", netmask: "255.255.255.255")], deniedIPv6: [], httpProxy: "172.16.0.1:2480"))
+200218 07:54:59.372 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:54:59.629 [INFO][2174.WarpApi.uploadReceipt] Ended
+200218 07:54:59.630 [INFO][2174.WarpApi.getWarpConfig] Started
+200218 07:54:59.631 [INFO][2174.WarpApi.getWarpCommonConfig] Started
+200218 07:54:59.635 [INFO][2174.WarpApi.getWarpCommonConfig] Ended
+200218 07:55:00.436 [INFO][2174.WarpApi.getWarpConfig] Ended
+200218 07:55:00.437 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_share_bonus_value: 1000000000
+200218 07:55:00.439 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_warp_configuration: Optional(_1dot1dot1dot1.WarpConfiguration(timeStamp: 2020-02-18 07:55:00 +0000, routingId: [228, 160, 38], interface: _1dot1dot1dot1.Endpoint(v4: "172.16.0.2", v6: "fd01:5ca1:ab1e:865e:b48:3c8c:8c5:ac14"), peers: [_1dot1dot1dot1.Server(publicKey: "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", endpoint: _1dot1dot1dot1.Endpoint(v4: "162.159.192.10:2408", v6: "[2606:4700:d0::a29f:c00a]:2408"))], deniedIPv4: [_1dot1dot1dot1.DeniedIPv4(address: "10.0.0.0", netmask: "255.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "100.64.0.0", netmask: "255.192.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "169.254.0.0", netmask: "255.255.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "172.16.0.0", netmask: "255.240.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "192.0.0.0", netmask: "255.255.255.0"), _1dot1dot1dot1.DeniedIPv4(address: "192.168.0.0", netmask: "255.255.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "224.0.0.0", netmask: "240.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "240.0.0.0", netmask: "240.0.0.0"), _1dot1dot1dot1.DeniedIPv4(address: "255.255.255.255", netmask: "255.255.255.255")], deniedIPv6: [], httpProxy: "172.16.0.1:2480"))
+200218 07:55:00.441 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:55:00.527 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.528 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:00.530 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.532 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.536 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.538 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.539 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.541 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.543 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.545 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.547 [INFO][2174.TunnelManager.loadDefaultManager] Loaded default manager
+200218 07:55:00.549 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.551 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.553 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.555 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:00.557 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_http_proxy_is_enabled: false
+200218 07:55:00.559 [INFO][2174.TunnelManager.updateProxySettings] Proxy settings have not changed
+200218 07:55:00.593 [INFO][2174.TunnelManager.enable] Enabled
+200218 07:55:00.601 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.603 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.604 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.622 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.624 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.626 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:00.627 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.628 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.630 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.631 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.632 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.636 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.637 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.637 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.639 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.641 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.643 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.644 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.646 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.647 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.649 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.651 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.653 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.663 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.673 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.674 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:00.676 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.678 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.680 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.682 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.684 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.687 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.689 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.691 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.693 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.695 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.698 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.700 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.702 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.704 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.706 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.708 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.710 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.712 [INFO][2174.TunnelManager.loadDefaultManager] Loaded default manager
+200218 07:55:00.714 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.716 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.718 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.720 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.723 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.724 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:00.726 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.728 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.731 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.741 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.742 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.747 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.748 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.750 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.753 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.754 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.756 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:00.758 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.762 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.763 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.765 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.768 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.769 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:00.771 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:00.773 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_http_proxy_is_enabled: false
+200218 07:55:00.776 [INFO][2174.TunnelManager.updateProxySettings] Proxy settings have not changed
+200218 07:55:00.942 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.950 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.951 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:00.952 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.953 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:00.988 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:00.997 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:01.001 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.019 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.023 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.027 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.034 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.035 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:01.037 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.039 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.046 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.053 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.062 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.071 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.073 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.077 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.080 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.082 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.083 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.085 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.088 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.090 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:01.091 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.099 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.103 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.104 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.108 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.109 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:01.111 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.113 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.123 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.125 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.127 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.142 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:01.144 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.147 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.148 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.150 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.152 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.154 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.156 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.158 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.160 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.162 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.164 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.166 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.168 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.170 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.172 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.174 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.176 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.178 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.181 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.185 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.188 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.191 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.193 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.199 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.201 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.202 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.205 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.207 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.209 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.211 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.213 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.215 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.217 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.218 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.219 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.221 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.223 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.224 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.226 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.228 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.232 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.234 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.236 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.239 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.241 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.243 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.245 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.256 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.257 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.259 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.261 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.263 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.265 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.267 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.269 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.271 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.273 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.275 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.277 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.279 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.281 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.283 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.285 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.287 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.289 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.291 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.293 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.295 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.299 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.300 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.302 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.304 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.306 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.308 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.310 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.312 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.314 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.316 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.318 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.320 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:01.322 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.324 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.326 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.328 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.330 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.332 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:01.334 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.336 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:01.338 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:03.816 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:55:03.847 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:55:03.878 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:03.879 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:03.880 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 07:55:03.895 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:03.896 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:03.898 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 07:55:03.899 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:55:03.909 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:03.910 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 07:55:04.574 [INFO][2174.ScreenName.logScreen] settings
+200218 07:55:06.390 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 07:55:06.392 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.394 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.396 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.398 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.400 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.402 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.404 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.405 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.407 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.410 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.412 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.415 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 07:55:06.416 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 07:55:06.418 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.421 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.423 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.425 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.427 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.429 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.431 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.433 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.434 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.437 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.439 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.441 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 07:55:06.443 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.445 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.447 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.449 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.451 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.453 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.455 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.457 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.459 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.461 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.463 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.465 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 07:55:06.467 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.469 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.470 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.471 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.473 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.476 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.478 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.480 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.482 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.484 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.486 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.488 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.490 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.490 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.491 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.493 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.496 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.497 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.499 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.500 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.502 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.503 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.504 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.506 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 07:55:06.508 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.509 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.511 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.513 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.515 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.516 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.518 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.520 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.522 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.524 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.526 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.528 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.530 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 07:55:06.532 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 07:55:06.533 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.536 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:06.538 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.540 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.542 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.544 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.546 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.548 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.550 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.552 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.554 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:06.556 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:06.767 [INFO][2174.ScreenName.logScreen] more_settings
+200218 07:55:07.186 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 07:55:07.188 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.190 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:07.192 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.194 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.196 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.198 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.200 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.202 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:07.204 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.206 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:07.208 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 07:55:07.210 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.212 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:07.214 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.216 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.218 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.220 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.222 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.224 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:07.226 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.228 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:07.230 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:07.801 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: []
+200218 07:55:07.819 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:07.823 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:07.829 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:55:07.832 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_nx_fallback_is_enabled: true
+200218 07:55:08.279 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.280 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:08.282 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.284 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.286 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.288 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.290 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.292 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:08.293 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.295 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:08.297 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:08.299 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:55:08.455 [INFO][2174.ScreenName.logScreen] connection_options
+200218 07:55:10.897 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:10.899 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:10.904 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:10.910 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:10.913 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:10.914 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:10.954 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:10.972 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.974 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:10.976 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.978 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.981 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.982 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.985 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.986 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:10.988 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.990 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.992 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:10.994 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:10.996 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:10.998 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.000 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.002 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.004 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.006 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.008 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.010 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.012 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.014 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.016 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.018 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.020 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.022 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.024 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.026 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.028 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.030 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.032 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.034 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.036 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.038 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.040 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.042 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.044 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.046 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.048 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.050 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.052 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.054 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.056 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.056 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.058 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.060 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.062 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.063 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.064 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.066 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.068 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.068 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.070 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.072 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.074 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.074 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.076 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.081 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.083 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.085 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.087 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.089 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.091 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.093 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.095 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.097 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.099 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.101 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.103 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.105 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.107 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.109 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.111 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.113 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.115 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.117 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.119 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.121 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.123 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.125 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.127 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.129 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.131 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.133 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.135 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.137 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.139 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.141 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:11.293 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.304 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.305 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.307 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.309 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.313 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.316 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.318 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.320 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.321 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.323 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.325 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.328 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.329 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.331 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.334 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.336 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.339 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.340 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.342 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.343 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.347 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.352 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.353 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.356 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.357 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.360 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.361 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.373 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.376 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.378 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.381 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.382 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.384 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.385 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.387 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.389 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.391 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.394 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.395 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.398 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.400 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.402 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.404 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.405 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.408 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.409 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 07:55:11.411 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.413 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.416 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.418 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.419 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.421 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.423 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.426 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.427 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.434 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.437 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.439 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.442 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.443 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:11.445 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.447 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.451 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.455 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.456 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.459 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.460 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.464 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.466 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.468 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.471 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.472 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.474 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.476 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:11.478 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.480 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.483 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.485 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.487 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.489 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.491 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.494 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.495 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.496 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.498 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.500 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.502 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.503 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: disconnected, pause: none, trusted network: #Telia-523150 2c:79:d7:52:31:57, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 07:55:11.504 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.506 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.508 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.512 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.513 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.515 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.517 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.519 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:11.520 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.522 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 07:55:11.524 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150"]
+200218 07:55:20.542 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0"]
+200218 07:55:20.544 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0"]
+200218 07:55:20.559 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0"]
+200218 07:55:20.566 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0"]
+200218 07:55:20.568 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:20.570 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:20.625 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+        127.0.0.0,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:32.057 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1"]
+200218 07:55:32.059 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1"]
+200218 07:55:32.069 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1"]
+200218 07:55:32.074 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1"]
+200218 07:55:32.076 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:32.080 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:32.121 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+        127.0.0.0,
+        127.0.0.1,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:41.688 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8"]
+200218 07:55:41.691 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8"]
+200218 07:55:41.705 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8"]
+200218 07:55:41.707 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8"]
+200218 07:55:41.708 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:41.711 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:41.764 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+        127.0.0.0,
+        127.0.0.1,
+        8.8.8.8,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:42.575 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:48.417 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0"]
+200218 07:55:48.419 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0"]
+200218 07:55:48.434 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0"]
+200218 07:55:48.436 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0"]
+200218 07:55:48.439 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:48.441 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:55:48.488 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+        127.0.0.0,
+        127.0.0.1,
+        8.8.8.8,
+        0.0.0.0,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:55:50.683 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:55:50.753 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:56:05.757 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 07:56:05.760 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 07:56:05.773 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 07:56:05.775 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 07:56:05.777 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:56:05.782 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:56:05.818 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        #Telia-523150,
+        127.0.0.0,
+        127.0.0.1,
+        8.8.8.8,
+        0.0.0.0,
+        192.168.1.65,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 07:56:19.255 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:56:19.262 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:56:19.265 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:56:19.909 [INFO][2174.ScreenName.logScreen] encryption_mode
+200218 07:56:21.538 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:56:21.540 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_nx_fallback_is_enabled: true
+200218 07:56:22.186 [INFO][2174.ScreenName.logScreen] connection_options
+200218 07:56:24.250 [INFO][2174.ScreenName.logScreen] more_settings
+200218 07:56:25.526 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 07:56:25.558 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 07:56:25.566 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 07:56:26.238 [INFO][2174.ScreenName.logScreen] connection_options
+200218 07:56:26.932 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_mode: auto
+200218 07:56:26.968 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_nx_fallback_is_enabled: true
+200218 07:56:29.667 [INFO][2174.ScreenName.logScreen] more_settings
+200218 07:56:30.212 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.214 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.216 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.218 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.220 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.222 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.241 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:30.242 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 07:56:30.912 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 07:56:33.006 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:33.009 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 07:56:52.134 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_log_is_enabled: false
+200218 07:56:52.142 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_dns_log_is_enabled: false
+200218 07:56:52.806 [INFO][2174.ScreenName.logScreen] dns_logs
+200218 07:56:53.336 [INFO][2174.UserDefaults.wrappedValue] Saved app_shared_dns_log_is_enabled: true
+200218 07:56:53.737 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 07:56:53.739 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 07:56:54.423 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 07:56:56.190 [INFO][2174.ScreenName.logScreen] console_logs
+200218 07:56:58.046 [INFO][2174.ScreenName.logScreen] console_log_details
+200218 07:59:05.000 [INFO][2174.AppDelegate.applicationWillResignActive] 
+200218 07:59:05.989 [INFO][2174.AppDelegate.applicationDidBecomeActive] 
+200218 07:59:31.037 [INFO][2174.AppDelegate.applicationWillResignActive] 
+200218 07:59:32.421 [INFO][2174.AppDelegate.applicationDidBecomeActive] 
+200218 08:02:54.048 [INFO][2174.ScreenName.logScreen] console_logs
+200218 08:02:55.579 [INFO][2174.ScreenName.logScreen] console_log_details
+200218 08:04:43.338 [INFO][2174.ScreenName.logScreen] console_logs
+200218 08:04:44.328 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:04:44.329 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 08:04:45.030 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 08:04:46.137 [INFO][2174.ScreenName.logScreen] routing_table
+200218 08:04:51.237 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:04:51.240 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 08:04:51.942 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 08:04:54.734 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:04:54.735 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 08:05:00.276 [INFO][2174.ScreenName.logScreen] more_settings
+200218 08:05:01.974 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:01.998 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:02.000 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:02.002 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 08:05:02.018 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:02.020 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:02.022 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 08:05:02.024 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:02.033 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:02.035 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:02.702 [INFO][2174.ScreenName.logScreen] settings
+200218 08:05:04.470 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:04.502 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 08:05:04.503 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["#Telia-523150", "127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 08:05:04.506 [INFO][2174.UserDefaults.wrappedValue] Saved app_local_trusted_wifi_networks: ["127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 08:05:04.514 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 08:05:04.518 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_trusted_wifi_networks: ["127.0.0.0", "127.0.0.1", "8.8.8.8", "0.0.0.0", "192.168.1.65"]
+200218 08:05:04.520 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:04.521 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:04.585 [INFO][2174.TunnelManager.updateOnDemandRules] On demand rules updated: [
+    action = disconnect
+    interfaceTypeMatch = any
+    SSIDMatch = (
+        127.0.0.0,
+        127.0.0.1,
+        8.8.8.8,
+        0.0.0.0,
+        192.168.1.65,
+    ), 
+    action = connect
+    interfaceTypeMatch = WiFi, 
+    action = connect
+    interfaceTypeMatch = cellular]
+200218 08:05:05.294 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.296 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.304 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.307 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.311 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.315 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.317 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.320 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.323 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.325 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:05.328 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.330 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.333 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:05.336 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.338 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.339 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.341 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.346 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.349 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.350 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.354 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:05.356 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.360 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.363 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:05.372 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.376 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.380 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.384 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.387 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.390 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.394 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.396 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.401 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.405 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.408 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.413 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.417 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.419 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.421 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.425 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.428 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.429 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.432 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.433 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.436 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.437 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.438 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.440 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.442 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.443 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.447 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.449 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.451 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.454 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.458 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.460 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.462 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.464 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.466 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.468 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.470 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.472 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.480 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.484 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.486 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.488 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.490 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.492 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.494 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.496 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.500 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.503 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.506 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.508 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.511 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.518 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.522 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.524 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.526 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.528 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.530 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.532 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.534 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.536 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.538 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.540 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.542 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.546 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.548 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.550 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.552 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.554 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connecting, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:05.556 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.560 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.562 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.564 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.566 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.569 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:05.571 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.574 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:05.576 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.558 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 08:05:06.560 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.562 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.563 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.565 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.567 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.569 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.569 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.571 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.573 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.575 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.575 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.577 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 08:05:06.579 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 08:05:06.581 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.581 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.583 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.585 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.587 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.587 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.589 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.591 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.593 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.595 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.597 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.599 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 08:05:06.601 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.603 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.605 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.607 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.609 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.611 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.613 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.615 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.617 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.619 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.621 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.623 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 08:05:06.625 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.627 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.629 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.631 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.633 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.635 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.637 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.639 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.641 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.643 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.646 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.648 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 08:05:06.650 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.652 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.654 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.656 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.658 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.660 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.662 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.664 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.666 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.668 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.670 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.672 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.674 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 08:05:06.676 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.679 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.681 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.683 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.685 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.687 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.689 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.691 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.693 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.695 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.697 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.698 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.700 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.702 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.704 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.704 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.706 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.708 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.710 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.710 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.713 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.714 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.716 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_cellular: false
+200218 08:05:06.717 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.718 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 08:05:06.757 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getTunnelStatus"}
+200218 08:05:06.758 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.760 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: unknown, service mode: WARP+ Unlimited
+200218 08:05:06.762 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.764 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.766 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.768 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.770 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.772 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:06.774 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.776 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.779 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:06.784 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_review_request_count: 0
+200218 08:05:06.786 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.788 [INFO][2174.MainViewModel.updateStatusAndInfo] Internet connection: true, tunnel connection status: connected, pause: none, trusted network: none, tunnel status: No captive portal, dns status: cf, service mode: WARP+ Unlimited
+200218 08:05:06.790 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.792 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.794 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.796 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.798 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.800 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:06.802 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.804 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.806 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_local_disable_on_wifi: false
+200218 08:05:06.808 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_state_public_pause_schedule: nil
+200218 08:05:06.810 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:09.953 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:09.985 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:10.010 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:10.011 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:10.014 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 08:05:10.023 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:10.025 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:10.027 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_local_dark_theme: false
+200218 08:05:10.029 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:10.040 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:10.041 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_user_account: Optional(_1dot1dot1dot1.WarpAccount(id: "dcf1d393-fd73-4ec7-926e-f3275bbac00a", license: Optional("276cA4zY-9QUW38v5-4o21z5aO"), accountType: _1dot1dot1dot1.WarpAccountType.unlimited, created: 2020-01-08 14:20:27 +0000, updated: 2020-02-05 05:40:59 +0000, plusExpiresAt: nil, premiumData: Optional(0), quota: Optional(0), warpPlus: Optional(true), referralCount: 0))
+200218 08:05:10.703 [INFO][2174.ScreenName.logScreen] settings
+200218 08:05:13.089 [INFO][2174.ScreenName.logScreen] more_settings
+200218 08:05:14.070 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.072 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.075 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.077 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.081 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.082 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.106 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:14.107 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 08:05:14.109 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getWarpStats"}
+200218 08:05:14.156 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] tunnel stats sent: 7189 recieved: 14293 handshake: 2020-02-18 08:05:05 +0000  rtt: 12 loss: 0.0
+200218 08:05:14.795 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 08:05:23.240 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_dns_log_is_enabled: true
+200218 08:05:23.251 [INFO][2174.UserDefaults.wrappedValue] Got stored value for app_shared_dns_log_is_enabled: true
+200218 08:05:23.254 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getDNSLogs"}
+200218 08:05:23.903 [INFO][2174.ScreenName.logScreen] dns_logs
+200218 08:05:26.845 [INFO][2174.ScreenName.logScreen] dns_query_details
+200218 08:05:30.390 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getDNSLogs"}
+200218 08:05:31.075 [INFO][2174.ScreenName.logScreen] dns_logs
+200218 08:05:31.723 [INFO][2174.UserDefaults.wrappedValue] Got default value for app_shared_warp_is_enabled: true
+200218 08:05:31.726 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] Fetching updated tunnel stats
+200218 08:05:31.727 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"getWarpStats"}
+200218 08:05:31.778 [INFO][2174.DiagnosticsViewModel.fetchWarpStats] tunnel stats sent: 17400 recieved: 40740 handshake: 2020-02-18 08:05:28 +0000  rtt: 26 loss: 0.0
+200218 08:05:32.429 [INFO][2174.ScreenName.logScreen] diagnostics
+200218 08:05:32.673 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"flushExtensionLogs"}
+200218 08:05:33.354 [INFO][2174.ScreenName.logScreen] console_logs
+200218 08:05:34.006 [INFO][2174.TunnelManager.sendMessage] Sending message {"type":"flushExtensionLogs"}
+200218 08:05:34.749 [INFO][2174.ScreenName.logScreen] console_log_details
+200218 08:06:29.932 [INFO][2174.AppDelegate.applicationWillResignActive] 
+200218 08:06:31.290 [INFO][2174.AppDelegate.applicationDidBecomeActive] 
+200218 08:06:37.330 [INFO][2174.ScreenName.logScreen] console_logs

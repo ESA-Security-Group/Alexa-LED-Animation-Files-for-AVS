@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:atlassian-scanner="http://www.atlassian.com/schema/atlassian-scanner"
+       xmlns:osgi="http://www.springframework.org/schema/osgi"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+        http://www.atlassian.com/schema/atlassian-scanner
+        http://www.atlassian.com/schema/atlassian-scanner/atlassian-scanner.xsd
+        http://www.springframework.org/schema/osgi
+        http://www.springframework.org/schema/osgi/spring-osgi.xsd"
+       default-autowire="autodetect">
+
+    <atlassian-scanner:scan-indexes/>
+
+    <bean name="thirdPartyComponentUpgradeManager"
+          class="com.codebarrel.jira.plugin.automation.thirdparty.upgrade.ThirdPartyComponentUpgradeManager">
+        <constructor-arg ref="componentUpgradeTasks"/>
+        <constructor-arg ref="automationForJiraThirdPartyComponentUpgrader" />
+        <constructor-arg ref="pluginEventManager" />
+    </bean>
+
+    <osgi:service id="thirdPartyComponentUpgradeManager_osgiService" ref="thirdPartyComponentUpgradeManager">
+        <osgi:interfaces>
+            <value>com.atlassian.sal.api.lifecycle.LifecycleAware</value>
+        </osgi:interfaces>
+    </osgi:service>
+
+    <osgi:list id="componentUpgradeTasks"
+               interface="com.codebarrel.automation.api.thirdparty.upgrade.ComponentUpgradeTask" cardinality="0..N">
+    </osgi:list>
+</beans>

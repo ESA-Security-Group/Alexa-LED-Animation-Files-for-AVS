@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g fill="none" fill-rule="evenodd" transform="translate(8.5 5)">
+    <path stroke="#FFFFFF" d="M7,0.5 L7,3" stroke-linecap="square"/>
+    <path stroke="#FFFFFF" d="M10.7123106,2.0376894 L10.7123106,4.5376894" stroke-linecap="square" transform="rotate(45 10.712 3.288)"/>
+    <path stroke="#FFFFFF" d="M12.25,5.75 L12.25,8.25" stroke-linecap="square" transform="rotate(90 12.25 7)"/>
+    <path stroke="#FFFFFF" d="M3.2876894,2.0376894 L3.2876894,4.5376894" stroke-linecap="square" transform="rotate(-45 3.288 3.288)"/>
+    <path stroke="#FFFFFF" d="M1.75,5.75 L1.75,8.25" stroke-linecap="square" transform="rotate(-90 1.75 7)"/>
+    <path stroke="#FFFFFF" d="M2.40380592,11.5961941 L4.17157288,9.82842712" stroke-linecap="square"/>
+    <polyline fill="#FFFFFF" points="0 0 10.8 10.08 5.58 10.53 8.55 17.1 6.57 18 3.69 11.34 0 14.85 0 0" transform="translate(7 7)"/>
+  </g>
+</svg>

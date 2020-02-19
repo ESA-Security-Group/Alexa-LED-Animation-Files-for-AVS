@@ -1,0 +1,140 @@
+{namespace JIRA.Automation.Project.Admin.Page}
+
+/**
+ * @param projectKey
+ */
+{template .main}
+   {call aui.page.document}
+       {param extraClasses}automation-admin-page{/param}
+       {param windowTitle: getText('com.codebarrel.automation.admin.link') /}
+       {param headContent}
+           <meta name="decorator" content="atl.admin" />
+           <meta name="admin.active.section" content="atl.jira.proj.config"/>
+           <meta name="admin.active.section" content="atl.jira.proj.config"/>
+           <meta name="admin.active.tab" content="automation_project_admin"/>
+           <meta name="projectKey" content="{$projectKey}"/>
+       {/param}
+       {param content}
+           <iframe class="automation-page-container" src="{contextPath()}/secure/AutomationProjectAdminAction!iframe.jspa?projectKey={$projectKey}&amp;decorator=none"></iframe>
+       {/param}
+   {/call}
+{/template}
+
+/**
+ */
+{template .mainGlobal}
+   {call aui.page.document}
+       {param extraClasses}automation-admin-page{/param}
+       {param windowTitle: getText('com.codebarrel.automation.admin.link') /}
+       {param headContent}
+           <meta name="decorator" content="atl.admin" />
+           <meta name="admin.active.section" content="admin_system_menu/top_system_section/security"/>
+           <meta name="admin.active.tab" content="automation_global_admin"/>
+       {/param}
+       {param content}
+           <iframe class="automation-page-container" src="{contextPath()}/secure/AutomationGlobalAdminAction!iframe.jspa?decorator=none"></iframe>
+       {/param}
+   {/call}
+{/template}
+
+/**
+* @param absoluteBaseUrl
+* @param projectId
+* @param projectRoutingId
+* @param projectKey
+* @param isDevMode
+* @param isGlobalScope
+* @param isGlobalAdmin
+* @param isLite
+* @param proTrial
+* @param iframeResources
+* @param addonResources
+* @param staticResourcePrefix
+* @param automationRules
+* @param userFlags
+* @param issueEvents
+* @param utcOffset
+* @param pluggableComponents
+* @param availableComponents
+* @param configProperties
+* @param darkFeatures
+* @param addonSen
+* @param lastRuleExecutionStates
+* @param hasEditPermission
+* @param applicationSen
+* @param licenseTier
+* @param licenseType
+* @param notifyTrialServiceOfUpgrade
+* @param notifyRemoteTrialServiceOfDormantTrial
+* @param isServiceDeskApiAvailable
+* @param isSoftwareApiAvailable
+* @param latestBlogs
+* @param isLabelsEnabled
+* @param ruleLabels
+* @param localeString
+* @param serverDefaultFromEmail
+*/
+{template .iframe}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="automation.user.locale" content="{$localeString}" />
+    </head>
+    <body style="background-color:white">
+        <div
+            id="automation-admin-container"
+            data-projectid="{$projectId}"
+            data-projectkey="{$projectKey}"
+            data-staticprefix="{$staticResourcePrefix}"
+            data-base-url="{contextPath()}"
+            data-absolute-base-url="{$absoluteBaseUrl}"
+            data-tenant-url="{contextPath()}"
+            data-create-rule-url="{contextPath()}/rest/cb-automation/latest/project/{$projectRoutingId}/rule"
+            data-create-sample-rules-url="{contextPath()}/rest/cb-automation/latest/samplerules/create"
+            data-create-label-url="{contextPath()}/rest/cb-automation/latest/rule-label"
+            data-rules-url="{contextPath()}/rest/cb-automation/latest/project/__id__/rule"
+            data-update-rule-url="{contextPath()}/rest/cb-automation/latest/project/{$projectRoutingId}/rule/__id__"
+            data-user-flag-url="{contextPath()}/rest/cb-automation/latest/user/flags"
+            data-securetoken-url="{contextPath()}/rest/cb-automation/latest/project/{$projectRoutingId}/securetoken"
+            data-execute-rule-url="{contextPath()}/rest/cb-automation/latest/project/{$projectRoutingId}/rule/__RULE_ID__/execute"
+            data-config-properties-url="{contextPath()}/rest/cb-automation/latest/configuration/property/bulk"
+            data-global-admin-url="{contextPath()}/secure/AutomationGlobalAdminAction!default.jspa"
+            data-rules="{$automationRules}"
+            data-user-flags="{$userFlags}"
+            data-pro-trial="{$proTrial}"
+            data-labels="{$ruleLabels}"
+            data-notify-trial-service-of-upgrade="{$notifyTrialServiceOfUpgrade}"
+            data-notify-trial-service-of-dormant-trial="{$notifyRemoteTrialServiceOfDormantTrial}"
+            data-application-sen="{$applicationSen}"
+            data-is-global-scope="{$isGlobalScope}"
+            data-is-global-admin="{$isGlobalAdmin}"
+            data-is-lite="{$isLite}"
+            data-issue-events="{$issueEvents}"
+            data-audit-log-url="{contextPath()}/rest/cb-automation/latest/audit/{$projectRoutingId}/__id__?"
+            data-items-per-page="50"
+            data-utc-offset="{$utcOffset}"
+            data-pluggable-components="{$pluggableComponents}"
+            data-config-properties="{$configProperties}"
+            data-available-components="{$availableComponents}"
+            data-dark-features="{$darkFeatures}"
+            data-addon-sen="{$addonSen}"
+            data-license-tier="{$licenseTier}"
+            data-license-type="{$licenseType}"
+            data-last-execution-states="{$lastRuleExecutionStates}"
+            data-has-edit-permission="{$hasEditPermission}"
+            data-is-servicedesk-api-available="{$isServiceDeskApiAvailable}"
+            data-is-software-api-available="{$isSoftwareApiAvailable}"
+            data-latest-blogs="{$latestBlogs}"
+            data-is-labels-enabled="{$isLabelsEnabled}"
+            data-server-default-from-email="{$serverDefaultFromEmail}"
+        ></div>
+        {$iframeResources|noAutoescape}
+        {if $isDevMode}
+            <script src="http://localhost:8078/html/js/standalone-i18n.js"></script>
+            <script src="http://localhost:8078/automationManager.pack.js"></script>
+            <strong id="dev-placeholder">You seeing nothing? Try running yarn dev-jira buddy...</strong>
+        {/if}
+        {$addonResources|noAutoescape}
+    </body>
+</html>
+{/template}

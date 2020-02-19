@@ -1,0 +1,57 @@
+{namespace JIRA.Automation.Welcome.Page}
+
+/**
+ */
+{template .main}
+<html lang="en">
+    <head>
+        <meta name="decorator" content="atl.general" />
+        <title>{getText('com.codebarrel.automation.title')}</title>
+        <style>
+            body {lb}background-color:#fff;{rb}
+            #footer {lb}display:none;{rb}
+           .aui-banner {lb}display:none;{rb}
+        </style>
+    </head>
+    <body>
+        <iframe class="automation-page-container" src="{contextPath()}/secure/AutomationWelcomeAction!iframe.jspa?decorator=none"></iframe>
+    </body>
+</html>
+{/template}
+
+/**
+* @param isDevMode
+* @param iframeResources
+* @param staticResourcePrefix
+* @param isLite
+* @param isLicensed
+* @param licenseStatus
+* @param sampleProjectKey
+* @param localeString
+*/
+{template .iframe}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="automation.user.locale" content="{$localeString}" />
+        {$iframeResources|noAutoescape}
+    </head>
+    <body style="background-color:#fff;">
+        <div id="page"
+            class="automation-post-install-container"
+            data-staticprefix="{$staticResourcePrefix}"
+            data-tenant-url="{contextPath()}"
+            data-create-sample-rules-url="{contextPath()}/rest/cb-automation/latest/samplerules/create"
+            data-is-lite="{$isLite}"
+            data-is-licensed="{$isLicensed}"
+            data-license-status="{$licenseStatus}"
+            data-sample-project-key="{$sampleProjectKey}"
+        >
+        </div>
+        {if $isDevMode}
+            <script src="http://localhost:8078/html/js/standalone-i18n.js"></script>
+            <script src="http://localhost:8078/welcome.pack.js"></script>
+        {/if}
+    </body>
+</html>
+{/template}

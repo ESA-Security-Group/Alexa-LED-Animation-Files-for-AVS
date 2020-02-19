@@ -1,0 +1,20 @@
+{namespace JIRA.Automation.Page}
+
+/**
+ **/
+{template .permissionViolation}
+    {call aui.page.document}
+        {param windowTitle: getText('perm.violation.title') /}
+        {param headContent}
+            <meta name="decorator" content="message" />
+        {/param}
+        {param content}
+            {call aui.message.warning}
+                {param titleContent: getText('perm.violation.title') /}
+                {param content}
+                    <p>{getText('perm.violation.desc')}</p>
+                {/param}
+            {/call}
+        {/param}
+    {/call}
+{/template}

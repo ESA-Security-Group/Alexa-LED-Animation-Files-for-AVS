@@ -1,0 +1,15 @@
+com.codebarrel.jira.plugin.automation.event.EventRuleRegistryLauncher
+com.codebarrel.jira.plugin.automation.event.JiraIssueEventListenerImpl
+com.codebarrel.jira.plugin.automation.event.ThirdPartyEventRuleCacheImpl
+com.codebarrel.jira.plugin.automation.i18n.CachingTranslationsProvider
+com.codebarrel.jira.plugin.automation.module.legacy.AutomationActionModuleDescriptorFactory#com.atlassian.plugin.osgi.external.ListableModuleDescriptorFactory
+com.codebarrel.jira.plugin.automation.module.legacy.AutomationTriggerModuleDescriptorFactory#com.atlassian.plugin.osgi.external.ListableModuleDescriptorFactory
+com.codebarrel.jira.plugin.automation.module.legacy.LegacyAutomationModuleTracker
+com.codebarrel.jira.plugin.automation.schedule.RulePollerServiceLauncher
+com.codebarrel.jira.plugin.automation.schedule.RuleScheduleServiceLauncher
+com.codebarrel.jira.plugin.automation.schedule.ServerStatisticsScheduler
+com.codebarrel.jira.plugin.automation.service.legacy.LabsRuleService
+com.codebarrel.jira.plugin.automation.startup.ProLiteAddonEnabler#com.atlassian.sal.api.lifecycle.LifecycleAware
+com.codebarrel.jira.plugin.automation.template.JiraTemplateRendererContextProviderFactory
+com.codebarrel.jira.plugin.automation.thirdparty.ThirdPartyComponentModuleDescriptorFactory#com.atlassian.plugin.osgi.external.ListableModuleDescriptorFactory
+com.codebarrel.jira.plugin.automation.thirdparty.ThirdPartyComponentModuleTracker

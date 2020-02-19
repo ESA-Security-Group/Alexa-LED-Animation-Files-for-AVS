@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>filter-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter-icon">
+            <path d="M18,36 C27.9411255,36 36,27.9411255 36,18 C36,8.0588745 27.9411255,0 18,0 C8.0588745,0 0,8.0588745 0,18 C0,27.9411255 8.0588745,36 18,36 Z" id="Oval"></path>
+            <polygon id="Path-2" stroke="#FFFFFF" stroke-width="0.5" fill="#FFFFFF" points="8.99095746 8.89512562 26.9728015 8.89512562 19.6856021 17.8720785 19.6856021 28.7978028 16.2726262 26.3245506 16.2726262 17.925964"></polygon>
+        </g>
+    </g>
+</svg>

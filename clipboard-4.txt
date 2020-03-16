@@ -1,2 +1,3 @@
 workingcopyapp.com
 SHA256:NMJWXjn1N4va4cOsTtwKEuRmjbw8dfRjlRGwmZApMRE=
+https://github.com/ESA-linux/-Get-Queens-1

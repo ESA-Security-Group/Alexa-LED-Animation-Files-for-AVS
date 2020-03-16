@@ -1,0 +1,7 @@
+Using SSH key ssh-rsa 4096 7a:68:af:25:1f:41:df:3d:e8:a4:ff:45:1f:75:5f:02
+Using SSH key ssh-rsa 4096 7a:68:af:25:1f:41:df:3d:e8:a4:ff:45:1f:75:5f:02 (2)
+Using SSH key ssh-rsa 4096 7a:68:af:25:1f:41:df:3d:e8:a4:ff:45:1f:75:5f:02 (3)
+Using SSH key ssh-rsa 4096 7a:68:af:25:1f:41:df:3d:e8:a4:ff:45:1f:75:5f:02 (4)
+No more authentication methods.
+The operation couldn’t be completed. (Git error -7.)
+Interpreting last error as: SSH connection rejected. Make sure SSH key is valid on bitbucket.org.

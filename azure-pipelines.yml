@@ -15,7 +15,13 @@ variables:
 
   # Azure Resource Manager connection created during pipeline creation
   azureSubscription: '66c34393-23c6-4326-ae7e-9cde3718b9a2'
-
+- task: AzureResourceManagerTemplateDeployment@3
+  inputs:
+    deploymentScope: 'Resource Group'
+    azureResourceManagerConnection: 'Betala per användning (a801e15e-421a-4b60-8dd3-f6a140dd5517)'
+    action: 'Create Or Update Resource Group'
+    templateLocation: 'Linked artifact'
+    deploymentMode: 'Incremental'
   # Web app name
   webAppName: ''
   

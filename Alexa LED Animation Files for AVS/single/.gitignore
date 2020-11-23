@@ -166,3 +166,5 @@
 !/Library/Homebrew/test/.bundle/config
 !/bin/*
 
+!/Dockerfile.yml
+

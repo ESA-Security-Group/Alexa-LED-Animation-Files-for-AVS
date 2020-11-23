@@ -2,3 +2,5 @@ workingcopyapp.com
 SHA256:NMJWXjn1N4va4cOsTtwKEuRmjbw8dfRjlRGwmZApMRE=
 https://github.com/ESA-linux/-Get-Queens-1
 https://github.com/ESA-linux/-Get-Queens-1
+852530
+git checkout api-key-auth
